@@ -1,4 +1,6 @@
-template repo for future projects
+Creating a responsive homepage for the final HTML/CSS project
+
+
 
 INCLUDES:
 
